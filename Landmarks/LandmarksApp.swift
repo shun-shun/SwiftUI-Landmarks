@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// mainはアプリのエントリーポイントを指す
 @main
 struct LandmarksApp: App {
     var body: some Scene {
